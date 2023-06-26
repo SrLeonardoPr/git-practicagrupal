@@ -1,3 +1,33 @@
+
+##  "Pasos para realizar una pizza italiana"
+## Documento realizado por estudiantes de ADA-school para la clase de Git & GitHub ## 
+
+# Por Jose Leonardo Piñeres
+
+¡Claro! Aquí te dejo una serie de pasos para hacer la mejor pizza italiana:
+
+1. Prepara la masa: mezcla 500 gramos de harina de trigo, 1 cucharada de sal, 1 cucharada de azúcar, 1 cucharada de levadura seca y 300 ml de agua tibia. Amasa hasta obtener una masa suave y elástica. Deja reposar la masa durante al menos una hora.
+
+2. Prepara la salsa de tomate: mezcla 400 gramos de tomates pelados y triturados, 1 diente de ajo picado, 1 cucharada de aceite de oliva, sal y pimienta al gusto. Deja reposar la salsa durante al menos 30 minutos.
+
+3. Precalienta el horno a 250°C.
+
+4. Estira la masa con un rodillo hasta obtener una forma redonda y delgada. Coloca la masa en una bandeja para pizza.
+
+5. Agrega la salsa de tomate sobre la masa, dejando un borde de aproximadamente 1 cm sin cubrir.
+
+6. Agrega los ingredientes de tu elección, como mozzarella, jamón, champiñones, aceitunas, etc.
+
+7. Hornea la pizza durante 10-15 minutos, o hasta que la masa esté dorada y crujiente.
+
+8. Saca la pizza del horno y agrega hojas de albahaca fresca y un chorrito de aceite de oliva.
+
+9. ¡Disfrutar de tu deliciosa pizza italiana!
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Por Pilar 
+
 1.	Ingredientes para hacer Pizza 
 1.1 Para la masa:
 •	1 kilogramo de harina
@@ -34,3 +64,18 @@
 
  Bibliografía
 Alberca, A. S. (2023). Introducción a GITIntroducción a GIT. Aprendeconalf.es. https://aprendeconalf.es/docencia/git/manual/manual-git.pdf
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Por Angelica Fajardo
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Por Jose Muñoz
+
+
