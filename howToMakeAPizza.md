@@ -70,6 +70,18 @@ Alberca, A. S. (2023). Introducción a GITIntroducción a GIT. Aprendeconalf.es.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Por Angelica Fajardo
 
+1. Precalentar el horno
+2. Organizar los ingredientes
+3. Preparar la salsa
+4. Preparar la masa
+5. Agregar la salsa
+6. Agregar el queso, jamon, champiñones, otros.
+7. Hornear la pizza
+8. Sacar la pizza del horno.
+9. Porcionar
+10. Servir
+
+
 
 
 
