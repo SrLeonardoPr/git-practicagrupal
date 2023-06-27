@@ -78,4 +78,12 @@ Alberca, A. S. (2023). Introducción a GITIntroducción a GIT. Aprendeconalf.es.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Por Jose Muñoz
 
-
+1. Comprar los materiales
+2. Amazar la masa
+3. Preparar los vegetales
+4. Rayar el queso
+5. Calentar el horno
+6. Ubicar los ingredientes en la tortilla
+7. Cocinar la pizza
+8. Porcionar
+9. Servir
